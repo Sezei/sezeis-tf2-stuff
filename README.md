@@ -1,2 +1,2 @@
-# sezeis-tf2-stuff
-lol
+# Sezei's TF2 FastDL Server
+ignore this! ;P
